@@ -18,19 +18,19 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "X R I I L Z B O T Z"
-global.ownername= "R I I K U N Z"
+global.botname = "C T A B O T Z"
+global.ownername= "C H A N D I K A"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://RiiKunz.github.io/"
-global.ownernomer = "6287820168225"
-global.ownernomerr = "+6287820168225"
+global.ownernomer = "6282390130907"
+global.ownernomerr = "+6282390130907"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6287820168225","6287820168225","6287820168225"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© X R I I L Z B O T Z' //sticker wm
-global.author = 'Di Buat Oleh RiiKunz' //sticker wm
+global.owner = ["6282390130907","6282390130907","6282390130907"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© C H A N D I K A B O T Z' //sticker wm
+global.author = 'Di Buat Oleh ChandikaGans' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
