@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
+global.autoread = false // auto read pesan / message
+global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
